@@ -1,15 +1,16 @@
 # Linux Fundamentals 1 – TryHackMe
 
 ## Objective
-Learn basic Linux commands and directory navigation.
+The objective of this room was to understand basic Linux commands, and directory navigation using the terminal.
 
-## Tools Used
-- Kali Linux
-- Terminal
+## Environment
+- Platform: TryHackMe
+- Operating System: Linux
+- Access Method: Web-based terminal / AttackBox
 
 ## Commands Practiced
 ```bash
-ls
-cd
-pwd
-cat
+pwd        # Print current working directory
+ls         # List files and directories
+cd         # Change directory
+cat        # View file contents
