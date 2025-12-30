@@ -6,6 +6,7 @@ The goal is to document my learning and improve my practical cybersecurity skill
 
 ## Topics Covered
 - Linux fundamentals
+- Windows fundamentals
 - Networking basics
 - Web vulnerabilities
 - Privilege escalation
