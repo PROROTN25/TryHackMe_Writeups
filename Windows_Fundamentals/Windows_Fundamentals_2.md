@@ -6,7 +6,7 @@ The objective of this room was to understand Windows system configuration, contr
 ## Environment
 - Platform: TryHackMe
 - Operating System: Windows
-- Access Method: Web-based RDP / Virtual Machine
+- Access Method: Virtual Machine
 
 ## Tools & Utilities Practiced
 - Control Panel
