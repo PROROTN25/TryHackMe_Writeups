@@ -16,6 +16,9 @@ The goal is to document my learning and improve my practical cybersecurity skill
 - Burp Suite
 - Linux
 - Metasploit
+- Wireshark
+- Tcpdump
+- John the Ripper
 
 ## Platforms Used
 - TryHackMe
@@ -23,7 +26,3 @@ The goal is to document my learning and improve my practical cybersecurity skill
   
 ## Learning Outcome
 This repository demonstrates my hands-on cybersecurity learning and problem-solving approach.
-
-## Disclaimer
-These writeups are based on retired or publicly available TryHackMe rooms.
-All content is shared strictly for educational and learning purposes only.
